@@ -1,0 +1,24 @@
+body{
+  background-color:#05610b;
+  color:white;
+  font-family: "Great Vibes", cursive;
+  padding: 0;
+  margin: 0;
+}
+
+
+h1, h2{
+  color: white;
+  text-align: center;
+  font-family: "Caveat", cursive;
+}
+
+
+header p{
+text-align:center;
+}
+main{
+ padding: 20px 10%;
+ max-width:900px;
+ margin: 0 auto;
+}
